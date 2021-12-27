@@ -2,7 +2,6 @@
   "name": "phaser_ts_sp_p_template",
   "version": "1.0.0",
   "description": "template for single player phaser game",
-  "main": "webpack.config.js",
   "scripts": {
     "build": "webpack",
     "prod": "webpack --config webpack.config.prod.js"
