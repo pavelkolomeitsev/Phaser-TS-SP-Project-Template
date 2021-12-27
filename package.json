@@ -1,0 +1,19 @@
+{
+  "name": "phaser_ts_sp_p_template",
+  "version": "1.0.0",
+  "description": "template for single player phaser game",
+  "main": "webpack.config.js",
+  "scripts": {
+    "build": "webpack",
+    "prod": "webpack --config webpack.config.prod.js"
+  },
+  "author": "P.Kolomeitsev",
+  "license": "ISC",
+  "devDependencies": {
+    "clean-webpack-plugin": "^4.0.0",
+    "ts-loader": "^9.2.6",
+    "typescript": "^4.5.4",
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1"
+  }
+}
